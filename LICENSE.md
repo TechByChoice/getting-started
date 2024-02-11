@@ -3,7 +3,7 @@
 ## Overview
 [![Hippocratic License HL3-FULL](https://img.shields.io/static/v1?label=Hippocratic%20License&message=HL3-FULL&labelColor=5e2751&color=bc8c3d)](https://firstdonoharm.dev/version/3/0/full.html)
 
-Our projects are licensed under the Hippocratic License Version 3.0, October 2021. This license allows for the use, copy, and distribution of our software with the condition that such activities do not violate ethical standards as defined within the license itself.
+Our projects are licensed under the altered Hippocratic License Version 3.0, October 2021. This license allows for the use, copy, limited modification, and distribution of our software with the condition that such activities do not violate ethical standards defined within the license itself.
 
 The Hippocratic License is designed to promote and enforce ethical use of open-source software, prohibiting its use in ways that harm individuals or violate human rights as recognized by international standards. This includes, but is not limited to, prohibitions on contributing to human rights violations, discrimination, environmental harm, and other unethical practices.
 
