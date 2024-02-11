@@ -1,0 +1,113 @@
+# Governance Model
+
+Welcome to Tech by Choice's Governance Model documentation. This document outlines our approach to governance within our open-source community. Our goal is to foster an inclusive, transparent, and effective environment where contributors can collaborate and thrive.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [What is a Governance Model?](#what-is-a-governance-model)
+- [Community Roles](#community-roles)
+- [Decision-Making Process](#decision-making-process)
+- [Contributing to Governance](#contributing-to-governance)
+- [Conflict Resolution](#conflict-resolution)
+- [Changes to the Governance Model](#changes-to-the-governance-model)
+- [Contact](#contact)
+
+## Overview
+
+Tech by Choice is dedicated to creating a governance model that promotes collaboration, inclusivity, and transparency. Our governance structure is designed to support the growth and sustainability of our projects while respecting the contributions and rights of all community members.
+
+## What is a Governance Model?
+
+A governance model in the context of an open-source project refers to the system of rules, practices, and processes that guide how the project is managed and developed. It covers aspects such as how decisions are made, how contributors can participate, and how conflicts are resolved. A clear governance model ensures that the project runs smoothly, remains sustainable, and that contributors understand how to effectively engage with the project.
+
+### Examples of Open Source Governance Models
+
+To better understand the variety and implementation of governance models in open-source projects, here are a few examples:
+
+- **Apache Software Foundation**: The ASF operates on a consensus-based community model. More information can be found by searching "Apache Software Foundation Governance".
+  
+- **Linux Kernel**: Governed by the Linux Foundation, it uses a "Benevolent Dictator for Life" (BDFL) model with Linus Torvalds at the top. Search "Linux Kernel Governance" for more details.
+  
+- **Node.js**: Operates under the Node.js Foundation with a governance model that encourages community involvement and an open contribution model. Look up "Node.js Project Governance" for specifics.
+  
+- **Django**: This web framework project is managed by the Django Software Foundation (DSF) and follows a model with a clear organizational structure involving different committees and roles. Find more by searching for "Django Governance".
+  
+- **Mozilla**: Known for the Firefox browser, Mozilla's governance structure includes both the non-profit Mozilla Foundation and the Mozilla Corporation, focusing on open governance and community participation. Search "Mozilla Governance" for insights.
+
+## Community Roles
+
+### Core Team
+
+The Core Team consists of Tech by Choice open source committee members and key members who have demonstrated a long-term commitment to the program. They are responsible for strategic decisions, project oversight.
+
+### Cohort Maintainers
+
+Cohort Maintainers are people who have applied and been accepted to our open-source project and are actively working on a project. These maintainers are working in a 3 or 6 month cohort to complete a project or workflow with the support of our open source mentors. 
+
+**Maintainers are not just people who write code** 
+
+### Contributors
+
+Contributors include anyone who contributes to the project through code, documentation, design, or other forms of contribution.
+
+**Contributors are not just people who write code**
+### Users
+
+Users are individuals or organizations that use our projects. While they may not contribute code, user feedback is vital to the project's direction and success.
+
+## Decision-Making Process
+
+Decisions are made through a consensus model. For most decisions, maintainers seek to reach an agreement through discussion in public forums. For more significant decisions, the Core Team may be involved to provide guidance and make the final decision if consensus cannot be reached.
+
+## Contributing to Governance
+
+Community input is vital to our governance model. Contributors can propose changes to governance, suggest new initiatives, or provide feedback on current practices through:
+
+- Opening an issue in the Governance repository
+- Participating in discussions during community meetings
+- Directly contacting the Core Team
+
+## Conflict Resolution
+__This section is missing vital information, and I would like to talk about this with the community to find the best way to document how we want to do this__
+At Tech by Choice, we recognize the importance of creating a safe, inclusive, and respectful community. Our conflict resolution process is designed to protect the well-being of all members, particularly those from marginalized groups, and to facilitate a space of learning and growth. We are committed to a process that respects cultural insights and individual experiences, while not allowing the principle of "assume good intent" to excuse harmful behavior.
+
+### Principles
+
+- **Prioritize Marginalized Voices**: In conflicts where cultural insensitivity or discrimination is an issue, we prioritize the voices and experiences of those from marginalized communities to ensure they are heard and respected.
+- **Educational Approach**: We view conflicts as opportunities for learning and growth, encouraging open dialogue and mutual understanding. However, this does not mean tolerating behavior that violates our Code of Conduct.
+- **Code of Conduct as Guideline**: Our Code of Conduct is the cornerstone of our conflict resolution process. Any behavior that violates these guidelines will be addressed promptly and may result in removal from the community.
+- **Confidentiality**: We handle all conflicts with discretion to protect the privacy and dignity of all involved parties.
+
+### Process
+
+1. **Report**: Community members are encouraged to report conflicts or Code of Conduct violations via [specified reporting channels]. Reports can be made anonymously if desired.
+
+2. **Initial Assessment**: Upon receiving a report, a designated team will conduct an initial assessment to understand the context and severity of the issue.
+
+3. **Dialogue and Mediation**: If appropriate, and with consent from the affected parties, we may facilitate a mediated dialogue aimed at mutual understanding and resolution. This step is approached with sensitivity to power dynamics and the emotional labor required by marginalized individuals.
+
+4. **Outcome and Action**: Depending on the assessment and the wishes of the affected parties, outcomes may include:
+   - Educational resources and discussions for those involved to understand the impact of their actions.
+   - Formal warnings to those who have violated the Code of Conduct.
+   - Temporary or permanent removal from the community for severe or repeated violations.
+
+5. **Follow-Up**: We provide follow-up support to affected parties and, where appropriate, the wider community to ensure ongoing safety and to reinforce our commitment to a respectful and inclusive environment.
+
+### Continuous Improvement
+
+Our conflict resolution process is subject to continuous review and improvement. We welcome feedback from our community on how we can better serve the needs of all members, particularly those from marginalized backgrounds.
+
+
+## Changes to the Governance Model
+
+Our governance model is not static; it evolves with our community and projects. Proposed changes can be submitted via pull requests to the Governance repository. Changes are reviewed and discussed by the community, with the Core Team making the final decision on implementation.
+
+## Contact
+
+For questions or suggestions regarding our governance model, don't hesitate to get in touch with us at:
+
+- Email: opentbc@techbychoice.org
+- Slack: #team-open-source
+
+We welcome your input and are committed to ensuring our governance model serves the best interests of our community and projects.
